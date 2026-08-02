@@ -1,8 +1,10 @@
-# Rideshare Customer Segmentation
+# Rideshare Customer Segmentation: Identifying High-Value Riders & Retention Drivers
 
 **Status:** In Progress
 
-A customer segmentation analysis of ride-share trip data to identify high-value riders and retention drivers.
+Applying RFM analysis, cohort retention, and behavioral segmentation to 1.7M taxi trips
+from Porto, Portugal (2013–2014) to answer: which riders are worth retaining, and what
+keeps them coming back?
 
 ## About the Author
 
