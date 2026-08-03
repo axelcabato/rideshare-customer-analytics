@@ -1,6 +1,8 @@
 # Data
 *.csv
 *.xlsx
+data/
+!data/.gitkeep
 
 # Python
 __pycache__/
